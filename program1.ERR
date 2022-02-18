@@ -1,0 +1,6 @@
+SELECT *
+Error in line 1: Table number is invalid.
+from teachers, cafedras
+Error in line 2: Unrecognized command verb.
+where teachers.Кафедра_id = cafedras.id
+Error in line 3: Unrecognized command verb.
